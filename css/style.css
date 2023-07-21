@@ -26,6 +26,10 @@
 @import "./article/seguros.css";
 @import "./article/seguros-responsive.css";
 
+/* FOOTER */
+@import "./footer/footer.css";
+@import "./footer/footer-responsive.css";
+
 /* UTILITY */
 @import "./utilidades/componentes.css";
 @import "./utilidades/componentes-responsive.css";
