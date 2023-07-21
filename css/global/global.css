@@ -6,8 +6,15 @@ body {
 }
 
 h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 ul,
-p {
+li,
+p,
+blockquote {
   margin: 0px;
 }
 
@@ -24,4 +31,8 @@ a {
 img {
   max-width: 100%;
   display: block;
+}
+
+img[src$=".jpg"] {
+  border-radius: 4px;
 }

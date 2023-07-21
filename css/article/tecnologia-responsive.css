@@ -1,0 +1,28 @@
+@media (max-width: 600px) {
+  .tecnologia-vantagens {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 800px) {
+  .tecnologia-bg {
+    box-shadow: initial;
+  }
+
+  .tecnologia {
+    grid-template-columns: 1fr;
+  }
+
+  .tecnologia-conteudo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .tecnologia-imagem {
+    display: none;
+  }
+
+  .tecnologia a {
+    margin-bottom: 60px;
+  }
+}

@@ -6,9 +6,26 @@
 @import "./header/header.css";
 @import "./header/header-responsive.css";
 
-/* INTRODUCAO */
+/* MAIN */
 @import "./introducao/introducao.css";
 @import "./introducao/introducao-responsive.css";
 
-/* Utilidades */
+/* ARTICLE */
+@import "./article/bicicletas-lista.css";
+@import "./article/bicicletas-lista-responsive.css";
+@import "./article/tecnologia.css";
+@import "./article/tecnologia-responsive.css";
+
+/* SECTION */
+@import "./section/parceiros.css";
+@import "./section/parceiros-responsive.css";
+@import "./section/depoimento.css";
+@import "./section/depoimento-responsive.css";
+
+/* ARTICLE */
+@import "./article/seguros.css";
+@import "./article/seguros-responsive.css";
+
+/* UTILITY */
 @import "./utilidades/componentes.css";
+@import "./utilidades/componentes-responsive.css";
