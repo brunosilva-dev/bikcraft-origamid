@@ -33,3 +33,9 @@
 /* UTILITY */
 @import "./utilidades/componentes.css";
 @import "./utilidades/componentes-responsive.css";
+
+/* PAGINA TERMOS */
+@import "./termos/termos.css";
+
+/* PAGINA BICICLETAS */
+@import "./bicicletas/bicicletas.css";

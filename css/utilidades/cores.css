@@ -31,6 +31,18 @@
   color: var(--cor-6);
 }
 
+.cor-8 {
+  color: #595959;
+}
+
+.cor-10 {
+  color: #2e2e2e;
+}
+
+.cor-11 {
+  color: #111111;
+}
+
 .cor-p1 {
   color: var(--cor-p1);
 }
