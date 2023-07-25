@@ -1,0 +1,12 @@
+@media (max-width: 800px) {
+  .vantagens-bg {
+    --padding: 60px;
+  }
+  .vantagens h2 {
+    margin-bottom: 40px;
+  }
+
+  .vantagens ul {
+    gap: 20px;
+  }
+}

@@ -25,6 +25,9 @@
 /* ARTICLE */
 @import "./article/seguros.css";
 @import "./article/seguros-responsive.css";
+@import "./article/vantagens.css";
+@import "./article/vantagens-responsive.css";
+@import "./article/perguntas.css";
 
 /* FOOTER */
 @import "./footer/footer.css";
