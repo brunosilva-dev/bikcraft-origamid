@@ -28,6 +28,7 @@
 @import "./article/vantagens.css";
 @import "./article/vantagens-responsive.css";
 @import "./article/perguntas.css";
+@import "./article/perguntas-responsive.css";
 
 /* FOOTER */
 @import "./footer/footer.css";
@@ -43,3 +44,9 @@
 /* PAGINA BICICLETAS */
 @import "./bicicletas/bicicletas.css";
 @import "./bicicletas/bicicletas-responsive.css";
+
+/* BICICLETA */
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/bicicleta-responsive.css";
+@import "./bicicleta/seguro.css";
+@import "./bicicleta/seguro-responsive.css";

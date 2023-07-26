@@ -13,7 +13,8 @@ h6,
 ul,
 li,
 p,
-blockquote {
+blockquote,
+dd {
   margin: 0px;
 }
 
