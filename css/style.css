@@ -37,6 +37,8 @@
 /* UTILITY */
 @import "./utilidades/componentes.css";
 @import "./utilidades/componentes-responsive.css";
+@import "./utilidades/formulario.css";
+@import "./utilidades/formulario-responsive.css";
 
 /* PAGINA TERMOS */
 @import "./termos/termos.css";
@@ -50,3 +52,12 @@
 @import "./bicicleta/bicicleta-responsive.css";
 @import "./bicicleta/seguro.css";
 @import "./bicicleta/seguro-responsive.css";
+
+/* CONTATO */
+@import "./contato/contato.css";
+@import "./contato/contato-responsive.css";
+@import "./contato/lojas.css";
+@import "./contato/lojas-responsive.css";
+
+/* ORÇAMENTO */
+@import "./orcamento/orcamento.css";
